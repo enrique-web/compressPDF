@@ -1,0 +1,2 @@
+# compressPDF
+import PdfWriter
